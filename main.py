@@ -2,6 +2,7 @@ import random
 import art
 import os
 
+
 def set_difficulty():
     attempts = 0
 
